@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaterialTest</string>
+    <string name="menu_text">This is menu</string>
+</resources>
